@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ChamaneDaGoat
+- 👋 Hi, I’m @Chamanekasai
 - 👀 I’m interested in Projects,coding,linux for hackers and cryptography
-- 🌱 I’m currently learning Cyber security 
+- 🌱 I’m currently studying Cyber security 
 - 💞️ I’m looking to collaborate on many projects 
 - 📫 How to reach me via my email 
 
